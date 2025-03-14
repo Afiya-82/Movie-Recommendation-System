@@ -42,3 +42,5 @@ TMDB API 🎬
 
 Datasets sourced from Kaggle 📊
 
+Made with ❤️ by [**Afiya Rani**]
+
